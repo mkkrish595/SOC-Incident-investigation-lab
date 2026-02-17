@@ -1,0 +1,8 @@
+# Setup Guide
+
+1. Installed VirtualBox
+2. Installed Windows 10 VM
+3. Installed Kali Linux VM
+4. Installed Sysmon on Windows
+5. Installed Splunk
+6. Connected Windows logs to Splunk
